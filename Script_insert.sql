@@ -81,7 +81,9 @@ values('Radio', 304, 19),
 	  ('Bird Set Free', 252, 28),
 	  ('Unstoppable', 218, 28),
 	  ('Electric Body', 255, 29),
-	  ('Lord Pretty Flacko Jodye', 126, 29);
+	  ('Lord Pretty Flacko Jodye', 126, 29)
+	  ('L$D', 288, 29),
+	  ('Everyday', 200, 29);
 	 
 insert into compilation ("name", "year")
 values('Dance Music', '2017-05-02'),
